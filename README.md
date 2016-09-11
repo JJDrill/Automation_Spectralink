@@ -1,2 +1,2 @@
 # Automation_Spectralink
-Example of an automation framework using Selenium with Java.
+Example of an automation page object model framework using Selenium with Java using the Spectralink.com web site. The harness navigates through all pages under the Company, Products, and Services menus, and is configured to use the Chrome and Edge browsers.
